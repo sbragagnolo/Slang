@@ -1,0 +1,14 @@
+{
+	"category" : "Slang",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"gen" ],
+	"name" : "Slang",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

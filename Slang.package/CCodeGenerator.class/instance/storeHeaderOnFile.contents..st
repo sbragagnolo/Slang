@@ -4,7 +4,7 @@ storeHeaderOnFile: fileName contents: contents
 	 aBlock with the stream to generate its contents."
 
 	| aStream |
-	aStream := VMMaker forceNewFileNamed: fileName.
+	aStream := self forceNewFileNamed: fileName.
 	aStream ifNil: [Error signal: 'Could not open C header file: ', fileName].
 	[(contents beginsWith: '/* Automatic') ifFalse:
 		[aStream nextPutAll: (self fileHeaderVersionStampForSourceClass: nil); cr].
