@@ -1,0 +1,14 @@
+{
+	"category" : "Slang-Arduino",
+	"classinstvars" : [
+		"initializationOptions" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ArduinoCodeDelegation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

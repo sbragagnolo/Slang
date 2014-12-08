@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"declareCVarsIn:" : "SantiagoBragagnolo 12/8/2014 11:33",
+		"implicitReturnTypeFor:" : "SantiagoBragagnolo 12/8/2014 14:39",
+		"prepareToBeAddedToCodeGenerator:" : "SantiagoBragagnolo 12/7/2014 16:58",
+		"requiredMethodNames:" : "SantiagoBragagnolo 12/7/2014 16:59" },
+	"instance" : {
+		"doASum" : "SantiagoBragagnolo 12/8/2014 15:52" } }

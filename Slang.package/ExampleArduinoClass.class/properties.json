@@ -1,0 +1,14 @@
+{
+	"category" : "Slang-Arduino",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ExampleArduinoClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
