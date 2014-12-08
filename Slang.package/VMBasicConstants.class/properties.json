@@ -1,0 +1,14 @@
+{
+	"category" : "Slang-Translation to C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "VMBasicConstants",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

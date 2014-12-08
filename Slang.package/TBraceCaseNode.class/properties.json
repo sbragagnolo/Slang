@@ -1,0 +1,15 @@
+{
+	"category" : "Slang-Translation to C",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"caseLabels",
+		"cases" ],
+	"name" : "TBraceCaseNode",
+	"pools" : [
+		 ],
+	"super" : "TParseNode",
+	"type" : "normal" }
